@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="about_text">Hazırladı -> Elvin Elesgerov</string>
+
+    <string-array name="kind">
+        <item>Kart</item>
+        <item>Nağd</item>
+    </string-array>
+</resources>
